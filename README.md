@@ -27,7 +27,7 @@ docker compose up -d
 ```
 
 
-## Pour éteindre le projet
+## Pour arrêter le projet
 Assurez vous d'être dans le dossier du projet (là où se trouve le fichier docker-compose.yml)
 
 ```

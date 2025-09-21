@@ -1,6 +1,6 @@
 <div align="center">
 
-# OpenClassrooms - Jardin-Actuel
+# EHOD - Jardin-Actuel
 </div>
 
 <p align="center">
@@ -18,8 +18,8 @@ Pour démarrer cet applicatif web vous devez avoir les outils suivants:
 # Installation and démarrage
 Clonez le projet pour le récupérer
 ``` 
-git clone https://github.com/OpenClassrooms-Student-Center/Jardin-Actuel-V2.git
-cd Jardin-Actuel-V2
+git clone https://github.com/devehod/Jardin-Actuel-Vehod.git
+cd Jardin-Actuel-Vehod
 ```
 Pour démarrer le projet
 ```

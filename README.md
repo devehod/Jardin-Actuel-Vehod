@@ -34,13 +34,4 @@ Assurez vous d'être dans le dossier du projet (là où se trouve le fichier doc
 docker compose down
 ```
 
-## Fin de travail
-Si vous ne revenez pas sur le projet, vous avez la possibilité de supprimer les fichiers et images Docker afin de récupérer la place
 
-Attention cela supprime tous les projets Docker de votre ordinateur
-
-```
-docker system prune -a
-
-=> tapez Y puis Entrée
-```
